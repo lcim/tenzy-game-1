@@ -1,8 +1,5 @@
+## About Tenzies Game: It's a continuation of the project started at Scrimba in "Learn React" series. I took the skeleton and transformed it into a nice game.
 # tenzy-game-1
-A game of two players using 10 dice. It involves flipping all the dice to one face value, eg threes, or sixes. After five sets, the player with most set wins is declared winner.
-
-#*About Tenzies Game: It's a continuation of the project started at Scrimba in "Learn React" series. I took the skeleton and transformed it into a nice game.
-chiadi-tenzies-game
 A game of two players using 10 dice. It involves flipping all the dice to one face value, eg threes, or sixes. After five sets, the player with most set wins is declared winner. NOTES:
 
 Game of two named players from user input;
